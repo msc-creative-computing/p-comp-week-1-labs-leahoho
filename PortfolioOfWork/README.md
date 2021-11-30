@@ -1,4 +1,4 @@
-#Documention
+Documentation
 
 <img width="1920" alt="00" src="https://user-images.githubusercontent.com/39073888/143980568-accdb2f1-72a7-464b-ac35-a38607ae1273.png">
 <img width="1920" alt="01" src="https://user-images.githubusercontent.com/39073888/143980582-03cae109-26ff-4b44-85a0-41968ede9858.png">
