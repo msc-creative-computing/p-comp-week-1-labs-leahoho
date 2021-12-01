@@ -18,7 +18,7 @@
 
 🔗 Folder: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/FinalProject_CloudLamp
 
-🔗 Presentation: https://github.com/msc-creative-computing/p-comp-leaho/edit/main/FinalProject_CloudLamp/README.md
+🔗 Presentation: https://github.com/msc-creative-computing/p-comp-leaho/blob/main/FinalProject_CloudLamp/00_Presentation.pdf
 
 🔗 Presentation PDP Download Link: https://drive.google.com/file/d/1-sd8sHRtHk15B7DbXozclk7RqnQr-RDT/view?usp=sharing
 
