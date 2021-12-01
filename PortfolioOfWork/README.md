@@ -1,3 +1,15 @@
+**🍋 Portfolio of Work😸**
+
+🔗 Folder: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork
+
+🔗 Documentation: https://github.com/msc-creative-computing/p-comp-leaho/blob/main/PortfolioOfWork/README.md
+
+🔗 IR Sensor: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/IRsensor
+
+🔗 Hand: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/Hand
+
+🔗 RGB LED: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/RBGled
+
 Documentation
 
 <img width="1920" alt="00" src="https://user-images.githubusercontent.com/39073888/143980568-accdb2f1-72a7-464b-ac35-a38607ae1273.png">
