@@ -1,9 +1,13 @@
 # p-comp-labs-leaho
 
-Portfolio of Work: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork
+**🍋 Portfolio of Work😸**
 
-IR Sensor: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/IRsensor
+🔗 https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork
 
-Hand: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/Hand
+🔗 IR Sensor: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/IRsensor
 
-RGB LED: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/RBGled
+🔗 Hand: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/Hand
+
+🔗 RGB LED: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/RBGled
+
+**☁️ Final Project - Cloud Lamp ☁️**
