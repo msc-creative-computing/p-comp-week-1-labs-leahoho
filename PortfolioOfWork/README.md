@@ -2,7 +2,7 @@
 
 🔗 Folder: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork
 
-🔗 Documentation: https://github.com/msc-creative-computing/p-comp-leaho/blob/main/PortfolioOfWork/README.md
+🔗 Presentation: https://github.com/msc-creative-computing/p-comp-leaho/blob/main/PortfolioOfWork/Presentation.pdf
 
 🔗 IR Sensor: https://github.com/msc-creative-computing/p-comp-leaho/tree/main/PortfolioOfWork/IRsensor
 
